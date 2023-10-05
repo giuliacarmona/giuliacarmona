@@ -8,5 +8,3 @@
     <img align="center" height="180vh" src='https://github-readme-stats.vercel.app/api?username=giuliacarmona&show_icons=true&theme=codeSTACKr&bg_color=00000000&hide_border=true'>
     <img align="center" height="130vh" src='https://github-readme-stats.vercel.app/api/top-langs/?username=giuliacarmona&layout=compact&theme=slateorange&bg_color=00000000&hide_border=true'>
   </div>
-
-### <h2> 🐍 Commits </h2>
